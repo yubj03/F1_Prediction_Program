@@ -1,5 +1,5 @@
 1. 개요
    이 프로젝트는 F1 경기 데이터를 활용하여 경기 결과를 사전에 예측하는 데이터 분석/머신러닝 프로젝트입니다.
 2. 결과
-   - Random Forest를 이용한 모델의 정확도는 0.8398로 가장 높았습니다.
-   - 이때, starting_grid 변수와 lastest_standing 변수의 예측 중요도가 가장 높았습니다.  
+- Random Forest를 이용한 모델의 정확도는 0.8398로 가장 높았습니다.
+- 이때, starting_grid 변수와 lastest_standing 변수의 예측 중요도가 가장 높았습니다.  
